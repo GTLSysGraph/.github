@@ -37,19 +37,15 @@ We are the **High-Throughput Computing Systems Group** at the **High-Throughput 
 
 ## 📚 Public research and tools
 
-Select a project to find its paper, documentation, and available research artifacts.
+- 🗄️ **(IEEE TKDE 2026)** [A Comprehensive Survey on Dynamic Graph Processing: Storage and Analytics](https://github.com/GTLSysGraph/DynGraphSurvey#readme). A survey of how dynamic graphs are stored, updated, and analyzed on CPUs and GPUs.
+- 🛡️ **(ICLR 2025)** [GPromptShield: Elevating Resilience in Graph Prompt Tuning Against Adversarial Attacks](https://github.com/GTLSysGraph/GPromptShield#readme). Introduces two complementary defenses to make graph prompt tuning more robust to perturbed inputs.
+- 🧩 **(DASFAA 2026)** [SemFuse: Aligning LLM Semantics with Graph Topology for Heterophilic Learning](https://github.com/GTLSysGraph/SemFuse#readme). Uses LLM-based edge refinement and two-view graph learning to improve node classification on heterophilic graphs.
+- 🧼 **(Neurocomputing 2025)** [SPMGAE: Self-purified masked graph autoencoders release robust expression power](https://github.com/GTLSysGraph/SPMGAE#readme). Learns robust node representations through graph purification, mirror-guided encoding, and feature and structure reconstruction.
+- 🎛️ **(SDM 2025)** [Equipping Graph Autoencoders: Revisiting Masking Strategies from a Robustness Perspective](https://github.com/GTLSysGraph/FilterMGAE#readme). Introduces reliability-ranked masking and decoupled feature reconstruction for noisy graphs.
+- ✈️ **(IEEE ICDM 2026)** [FSLNet: Episodic Few-Shot Adaptation for Industrial Recommender Systems](https://github.com/GTLSysGraph/FSLNet#readme). The paper companion describes how recent interaction prototypes help predict conversions in industrial travel recommendations.
 
-<p align="center">
-  <a href="https://github.com/GTLSysGraph/DynGraphSurvey#readme"><img src="https://raw.githubusercontent.com/GTLSysGraph/.github/main/profile/assets/dyngraphsurvey.png" width="49%" alt="DynGraphSurvey · IEEE TKDE 2026. Survey and reading index for dynamic graph storage and analytics."></a>
-  <a href="https://github.com/GTLSysGraph/ALOHA#readme"><img src="https://raw.githubusercontent.com/GTLSysGraph/.github/main/profile/assets/aloha.png" width="49%" alt="ALOHA Graph Foundry. A research toolkit for graph autoencoders and graph contrastive learning."></a>
-  <br>
-  <a href="https://github.com/GTLSysGraph/GPromptShield#readme"><img src="https://raw.githubusercontent.com/GTLSysGraph/.github/main/profile/assets/gpromptshield.png" width="49%" alt="GPromptShield · ICLR 2025. Robust graph prompt tuning."></a>
-  <a href="https://github.com/GTLSysGraph/SemFuse#readme"><img src="https://raw.githubusercontent.com/GTLSysGraph/.github/main/profile/assets/semfuse.png" width="49%" alt="SemFuse · DASFAA 2026. LLM-guided topology refinement for heterophilic graph learning."></a>
-  <br>
-  <a href="https://github.com/GTLSysGraph/SPMGAE#readme"><img src="https://raw.githubusercontent.com/GTLSysGraph/.github/main/profile/assets/spmgae.png" width="49%" alt="SPMGAE · Neurocomputing 2025. Self-purified masked graph autoencoders."></a>
-  <a href="https://github.com/GTLSysGraph/FilterMGAE#readme"><img src="https://raw.githubusercontent.com/GTLSysGraph/.github/main/profile/assets/filtermgae.png" width="49%" alt="FilterMGAE · SDM 2025. Reliability-aware masking and feature reconstruction for graph autoencoders."></a>
-  <br>
-  <a href="https://github.com/GTLSysGraph/FSLNet#readme"><img src="https://raw.githubusercontent.com/GTLSysGraph/.github/main/profile/assets/fslnet.png" width="49%" alt="FSLNet · IEEE ICDM 2026 Applied Track. Paper companion for episodic few-shot conversion prediction."></a>
-</p>
+### 🧰 Research toolkit
+
+- [ALOHA Graph Foundry](https://github.com/GTLSysGraph/ALOHA#readme). A workbench for graph autoencoders and graph contrastive learning, with shared training entry points, dataset adapters, and experiment logs.
 
 For implementation questions or corrections to the reading lists, use the relevant repository’s issue tracker.
